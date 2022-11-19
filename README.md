@@ -1,2 +1,2 @@
-# goggle_colab
-Data Science Google Colab Notebooks (Playground/Mini-projects)
+#Google Colab Notebooks
+Bunch of Data Science Projects 
